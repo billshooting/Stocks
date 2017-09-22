@@ -1,0 +1,14 @@
+{
+  "name": "stocks",
+  "version": "1.0.0",
+  "description": "financial data provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
+}
